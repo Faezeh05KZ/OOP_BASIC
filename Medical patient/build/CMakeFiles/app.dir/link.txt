@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/app.dir/main.cpp.o CMakeFiles/app.dir/Patient.cpp.o CMakeFiles/app.dir/hospital.cpp.o -o app 
